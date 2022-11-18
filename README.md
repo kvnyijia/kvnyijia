@@ -6,7 +6,7 @@
 * [Finance Hero](https://github.com/kvnyijia/Finance-Hero)
 * [Personal website](https://github.com/kvnyijia/kvnyijia.github.io)
 
-#### Other cool code 👾
+#### Other fun code 👾
 ##### C#
 
 * [RunRun](https://github.com/kvnyijia/WP_runrun)
