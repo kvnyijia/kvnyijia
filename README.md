@@ -1,12 +1,20 @@
-#### Projects 🤖
+<h2 align="center">👋 Hello there! I’m Kevin.</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kvnyijia/">LinkedIn</a>
+  <a href="https://twitter.com/kvnyijia">Twitter</a>
+  <a href="https://kvnyijia.github.io/">Personal Website</a>
+</p>
+
+#### 🤖 Key Projects 
 
 * [THE ONE](https://github.com/kvnyijia/dva-team24)
+* [Taste](https://github.com/kvnyijia/Taste-react-native)
 * [Air quality - ML models](https://github.com/kvnyijia/pm2.5_training)
 * [Air quality - CLI](https://github.com/kvnyijia/data_display)
 * [Finance Hero](https://github.com/kvnyijia/Finance-Hero)
 * [Personal website](https://github.com/kvnyijia/kvnyijia.github.io)
 
-#### Other fun code 👾
+#### 👾 Other Fun Code 
 ##### C#
 
 * [RunRun](https://github.com/kvnyijia/WP_runrun)
