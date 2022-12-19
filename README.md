@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello there! I’m Kevin.</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kvnyijia/">LinkedIn</a>
-  <a href="https://twitter.com/kvnyijia">Twitter</a>
+  <a href="https://www.linkedin.com/in/kvnyijia/">LinkedIn</a> •
+  <a href="https://twitter.com/kvnyijia">Twitter</a> •
   <a href="https://kvnyijia.github.io/">Personal Website</a>
 </p>
 
