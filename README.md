@@ -6,8 +6,10 @@
   <a href="https://www.instagram.com/kvnyijia/">Instagram</a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnyijia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnyijia&layout=compact&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+  
 #### 🤖 Key Projects 
 
 * [THE ONE](https://github.com/kvnyijia/dva-team24)
