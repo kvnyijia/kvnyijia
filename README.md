@@ -7,7 +7,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnyijia&layout=compact&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnyijia&layout=compact&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
   
 #### 🤖 Key Projects 
