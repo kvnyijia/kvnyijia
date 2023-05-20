@@ -17,6 +17,7 @@
   
 #### 🤖 Key Projects 
 
+* [Simple Bank](https://github.com/kvnyijia/bank-app)
 * [THE ONE](https://github.com/kvnyijia/dva-team24)
 * [Taste](https://github.com/kvnyijia/Taste-react-native)
 * [Air quality - ML models](https://github.com/kvnyijia/pm2.5_training)
