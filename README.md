@@ -3,7 +3,7 @@
   <a href="https://kvnyijia.github.io/">Personal website</a> •
   <a href="https://www.linkedin.com/in/kvnyijia/">LinkedIn</a> •
   <a href="https://twitter.com/kvnyijia">Twitter</a> •
-  <a href="https://www.instagram.com/kvnyijia/">Instagram</a>
+  <a href="https://www.threads.net/@kvnyijia">Threads</a>
 </p>
 
 
