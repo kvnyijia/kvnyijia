@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hello there! I’m Kevin.</h2>
 <p align="center">
-  <a href="https://kvnyijia.github.io/">Personal website</a> •
-  <a href="https://www.linkedin.com/in/kvnyijia/">LinkedIn</a> •
-  <a href="https://twitter.com/kvnyijia">Twitter</a> •
-  <a href="https://www.threads.net/@kvnyijia">Threads</a>
+  <a href="https://kvnyijia.github.io/" target="_blank">Personal website</a> •
+  <a href="https://www.linkedin.com/in/kvnyijia/" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/kvnyijia" target="_blank">Twitter</a> •
+  <a href="https://www.threads.net/@kvnyijia" target="_blank">Threads</a>
 </p>
 
 
